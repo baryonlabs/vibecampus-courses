@@ -31,6 +31,8 @@ theme: koreatech-v3
 - 도구(검색, 코드 실행)를 연결했다
 - 하나의 에이전트가 꽤 많은 일을 한다
 
+![Level 4 개념도](https://www.vibecamp.us/course-images/level4-agent-team.svg)
+
 ---
 
 # 그런데 왜 부족한가?
@@ -217,6 +219,8 @@ theme: koreatech-v3
 - 할 수 있는 일과 하면 안 되는 일이 구분된다
 - 사용할 도구가 지정된다
 - 성공 기준이 측정 가능하다
+
+![Level 4 개념도](https://www.vibecamp.us/course-images/level4-agent-team.svg)
 
 ---
 
@@ -424,6 +428,8 @@ Stage 2에서 설계한 것을 실제로 만들어 봅니다.
 - 3. 순차 파이프라인으로 연결
 - 4. 테스트 질문으로 실행
 - 5. 각 단계 출력 확인
+
+![Level 4 개념도](https://www.vibecamp.us/course-images/level4-agent-team.svg)
 
 ---
 

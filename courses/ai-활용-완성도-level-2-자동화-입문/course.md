@@ -31,6 +31,8 @@ theme: koreatech-v3
 - 사람의 판단이 필요 없는 단계를 기계에 위임
 - 목표: 시간 절약 + 실수 감소
 
+![Level 2 개념도](https://www.vibecamp.us/course-images/level2-automation-flow.svg)
+
 ---
 
 # 일상 속 자동화 예시
@@ -221,6 +223,8 @@ n8n을 설치하고 첫 화면을 둘러봅니다.
 - 오픈소스 워크플로우 자동화 도구
 - 노드를 연결해서 자동화를 만든다
 - 400개 이상의 서비스 연동 지원
+
+![Level 2 개념도](https://www.vibecamp.us/course-images/level2-automation-flow.svg)
 
 ---
 
@@ -419,6 +423,8 @@ n8n을 설치하고 첫 화면을 둘러봅니다.
 - 입력: Gmail 트리거 (새 이메일 수신)
 - 처리: AI가 카테고리 분류 (문의/제안/스팸/기타)
 - 출력: 구글 시트에 기록 + 긴급 건은 슬랙 알림
+
+![Level 2 개념도](https://www.vibecamp.us/course-images/level2-automation-flow.svg)
 
 ---
 

@@ -36,6 +36,8 @@ theme: koreatech-v3
 - "최근 트렌드를 반영한 콘텐츠 아이디어를 줘"
 - AI가 카테고리별로 분류해서 제안
 
+![SNS 루틴](https://www.vibecamp.us/course-images/sns-content-flow.svg)
+
 <!-- script: 한 번에 30개를 뽑아두면 한 달치 콘텐츠 걱정이 사라집니다. -->
 
 ---
@@ -200,6 +202,8 @@ theme: koreatech-v3
 - "오늘 출근길 사진을 올려. 직장인 공감 캡션을 써줘. 짧고 위트있게."
 - "제품 리뷰 포스트야. 솔직한 톤으로 장점 3가지를 자연스럽게 녹여줘."
 
+![SNS 루틴](https://www.vibecamp.us/course-images/sns-content-flow.svg)
+
 ---
 
 # 릴스 스크립트 만들기
@@ -363,6 +367,8 @@ theme: koreatech-v3
 - 캘린더를 보고 AI에게 한 번에 요청
 - "이번 주 인스타 포스트 5개의 캡션을 한 번에 써줘"
 - 각 포스트의 주제와 톤을 미리 지정
+
+![SNS 루틴](https://www.vibecamp.us/course-images/sns-content-flow.svg)
 
 ---
 

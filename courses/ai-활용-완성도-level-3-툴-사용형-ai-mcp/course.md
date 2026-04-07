@@ -32,6 +32,8 @@ AI가 이제 행동하기 시작합니다.
 - 자동화는 사람이 복사-붙여넣기로 연결
 - 실시간 정보 반영이 어려움
 
+![Level 3 개념도](https://www.vibecamp.us/course-images/level3-mcp-arch.svg)
+
 ---
 
 # 도구를 쓰는 AI란?
@@ -231,6 +233,8 @@ AI가 도구를 '선택'하고 '호출'하는 과정
 - MCP 공식 사이트 서버 목록
 - npm / PyPI에서 mcp-server 검색
 - 커뮤니티 포럼과 블로그
+
+![Level 3 개념도](https://www.vibecamp.us/course-images/level3-mcp-arch.svg)
 
 ---
 
@@ -451,6 +455,8 @@ Claude Desktop에 도구를 붙여봅시다
 - 여러 앱을 오가며 하는 작업
 - 정해진 순서대로 처리하는 업무
 - 데이터를 조회하고 정리하는 일
+
+![Level 3 개념도](https://www.vibecamp.us/course-images/level3-mcp-arch.svg)
 
 ---
 

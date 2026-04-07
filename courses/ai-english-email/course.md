@@ -38,6 +38,8 @@ theme: koreatech-v3
 - 마감: 언제까지 필요한지
 - 마무리: Thank you / Best regards
 
+![이메일 톤 변환](https://www.vibecamp.us/course-images/email-tone.svg)
+
 <!-- script: 영어 이메일은 구조만 지키면 절반은 성공입니다. 나머지는 AI가 채워줍니다. -->
 
 ---
@@ -202,6 +204,8 @@ No라고 말하면서도 관계를 지키는 영어 표현을 배웁니다.
 - 참석자: 누가 참여하는지
 - 안건: 간단한 아젠다
 
+![이메일 톤 변환](https://www.vibecamp.us/course-images/email-tone.svg)
+
 ---
 
 # AI에게 미팅 요청 이메일 쓰기
@@ -364,6 +368,8 @@ No라고 말하면서도 관계를 지키는 영어 표현을 배웁니다.
 - 요청: "Could you send me the report?" → 일반적인 비즈니스 요청
 - 정중한 부탁: "I would appreciate it if you could send me the report." → 격식
 - "Would it be possible to...?" → 가장 정중한 표현
+
+![이메일 톤 변환](https://www.vibecamp.us/course-images/email-tone.svg)
 
 ---
 

@@ -105,9 +105,10 @@ function parseSlideBlock(block: string): SlideData {
     }
   }
 
+  if (imageUrl && !bullets.length && !code) return { type: "image", title, imageUrl, alt, caption, script: script || undefined, note: note || undefined };
+  if (code) return { type: "code", title, code, note: note || undefined, script: script || undefined, imageUrl: imageUrl || undefined, alt: alt || undefined };
+  if (bullets.length) return { type: "bullets", title, bullets, note: note || undefined, script: script || undefined, imageUrl: imageUrl || undefined, alt: alt || undefined, caption: caption || undefined };
   if (imageUrl) return { type: "image", title, imageUrl, alt, caption, script: script || undefined, note: note || undefined };
-  if (code) return { type: "code", title, code, note: note || undefined, script: script || undefined };
-  if (bullets.length) return { type: "bullets", title, bullets, note: note || undefined, script: script || undefined };
   return { type: "title", title, subtitle: subtitle || undefined, script: script || undefined, note: note || undefined };
 }
 

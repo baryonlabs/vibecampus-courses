@@ -32,6 +32,8 @@ theme: koreatech-v3
 - 대규모 언어 모델(LLM)이 문장을 생성하는 원리
 - 검색 엔진과 다른 점: 정보를 '찾는' 것이 아니라 '만드는' 것
 
+![Level 1 개념도](https://www.vibecamp.us/course-images/level1-chatbot-compare.svg)
+
 ---
 
 # 챗봇으로 할 수 있는 일
@@ -226,6 +228,8 @@ theme: koreatech-v3
 - 핵심 포인트를 놓치지 않도록 구조화
 - 직접 읽는 시간 대비 5~10배 빠름
 
+![Level 1 개념도](https://www.vibecamp.us/course-images/level1-chatbot-compare.svg)
+
 ---
 
 # 요약 프롬프트 기본 패턴
@@ -418,6 +422,8 @@ theme: koreatech-v3
 - 챗봇에게 특정 전문가 역할을 맡기는 기법
 - '너는 10년차 마케터야'처럼 페르소나를 부여
 - 역할에 따라 답변의 깊이·관점·어투가 달라짐
+
+![Level 1 개념도](https://www.vibecamp.us/course-images/level1-chatbot-compare.svg)
 
 ---
 

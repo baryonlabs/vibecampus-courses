@@ -31,6 +31,8 @@ theme: koreatech-v3
 - 시스템: 입력이 들어오면 정해진 경로를 따라 결과가 나온다
 - 핵심 차이는 '사람 없이도 같은 결과가 나오는가'이다
 
+![Level 5 개념도](https://www.vibecamp.us/course-images/level5-harness.svg)
+
 ---
 
 # 시스템의 4가지 조건
@@ -229,6 +231,8 @@ theme: koreatech-v3
 - 워크플로 중간에 상태를 저장하는 지점
 - 체크포인트가 있으면 실패 시 그 지점부터 재개 가능
 - 전체를 다시 실행하지 않아도 되므로 비용과 시간을 절약
+
+![Level 5 개념도](https://www.vibecamp.us/course-images/level5-harness.svg)
 
 ---
 
@@ -442,6 +446,8 @@ theme: koreatech-v3
 - 에이전트 출력 품질은 시간이 지나면 변할 수 있다 (모델 업데이트, 데이터 변화)
 - 비용이 예상을 초과할 수 있다
 - 사용자 불만이 쌓이기 전에 문제를 발견해야 한다
+
+![Level 5 개념도](https://www.vibecamp.us/course-images/level5-harness.svg)
 
 ---
 

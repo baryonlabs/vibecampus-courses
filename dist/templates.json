@@ -44,7 +44,9 @@
                   "마감: 언제까지 필요한지",
                   "마무리: Thank you / Best regards"
                 ],
-                "script": "영어 이메일은 구조만 지키면 절반은 성공입니다. 나머지는 AI가 채워줍니다."
+                "script": "영어 이메일은 구조만 지키면 절반은 성공입니다. 나머지는 AI가 채워줍니다.",
+                "imageUrl": "https://www.vibecamp.us/course-images/email-tone.svg",
+                "alt": "이메일 톤 변환"
               },
               {
                 "type": "bullets",
@@ -257,7 +259,9 @@
                   "예상 소요 시간: 30분/1시간",
                   "참석자: 누가 참여하는지",
                   "안건: 간단한 아젠다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/email-tone.svg",
+                "alt": "이메일 톤 변환"
               },
               {
                 "type": "bullets",
@@ -452,7 +456,9 @@
                   "요청: \"Could you send me the report?\" → 일반적인 비즈니스 요청",
                   "정중한 부탁: \"I would appreciate it if you could send me the report.\" → 격식",
                   "\"Would it be possible to...?\" → 가장 정중한 표현"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/email-tone.svg",
+                "alt": "이메일 톤 변환"
               },
               {
                 "type": "bullets",
@@ -682,7 +688,9 @@
                   "중첩 함수(함수 안에 함수)가 들어가면 해독 불가",
                   "구글링해도 내 상황에 딱 맞는 답을 찾기 어려움",
                   "AI에게 한국어로 \"이거 해줘\"라고 하면 수식을 만들어줍니다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/excel-flow.svg",
+                "alt": "엑셀 자동화 흐름"
               },
               {
                 "type": "bullets",
@@ -914,7 +922,9 @@
                   "형식 불일치: \"2024-01-15\", \"2024/01/15\", \"1월 15일\" 혼재",
                   "빈 셀: 데이터가 누락된 행",
                   "AI에게 \"이 데이터를 정리해줘\"라고 하면 단계별로 안내"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/excel-flow.svg",
+                "alt": "엑셀 자동화 흐름"
               },
               {
                 "type": "bullets",
@@ -1155,7 +1165,9 @@
                   "반복 작업을 버튼 하나로 자동 실행",
                   "예: 매월 같은 형식의 보고서 생성, 데이터 정리, 이메일 발송",
                   "코딩을 몰라도 AI가 코드를 만들어주니 걱정 없음"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/excel-flow.svg",
+                "alt": "엑셀 자동화 흐름"
               },
               {
                 "type": "bullets",
@@ -1424,7 +1436,9 @@
                   "\"각 안건별 예상 소요 시간과 필요한 의사결정 사항을 정리해줘\"",
                   "AI가 안건표를 만들어줌"
                 ],
-                "script": "안건표 하나면 회의 시작할 때 '오늘 뭘 논의하지?'라는 시간 낭비가 사라집니다."
+                "script": "안건표 하나면 회의 시작할 때 '오늘 뭘 논의하지?'라는 시간 낭비가 사라집니다.",
+                "imageUrl": "https://www.vibecamp.us/course-images/meeting-flow.svg",
+                "alt": "회의 생산성"
               },
               {
                 "type": "bullets",
@@ -1635,7 +1649,9 @@
                   "\"김팀장 - A프로젝트 2주 지연, 인력 충원 필요\"",
                   "\"박대리 - 디자인 시안 3개 완료, 금요일까지 선택 필요\"",
                   "완전한 문장이 아니어도 OK, 키워드만으로 충분"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/meeting-flow.svg",
+                "alt": "회의 생산성"
               },
               {
                 "type": "bullets",
@@ -1826,7 +1842,9 @@
                   "\"상사에게 보고하는 이메일 형식으로 바꿔줘\"",
                   "\"노션 페이지에 붙여넣을 수 있는 마크다운으로 변환해줘\"",
                   "하나의 회의록으로 용도별 3가지 버전 생성"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/meeting-flow.svg",
+                "alt": "회의 생산성"
               },
               {
                 "type": "bullets",
@@ -2056,7 +2074,9 @@
                   "\"최근 트렌드를 반영한 콘텐츠 아이디어를 줘\"",
                   "AI가 카테고리별로 분류해서 제안"
                 ],
-                "script": "한 번에 30개를 뽑아두면 한 달치 콘텐츠 걱정이 사라집니다."
+                "script": "한 번에 30개를 뽑아두면 한 달치 콘텐츠 걱정이 사라집니다.",
+                "imageUrl": "https://www.vibecamp.us/course-images/sns-content-flow.svg",
+                "alt": "SNS 루틴"
               },
               {
                 "type": "bullets",
@@ -2269,7 +2289,9 @@
                   "\"카페 신메뉴 딸기 라떼 사진을 올려. 캡션을 써줘. 톤은 따뜻하고 감성적. 해시태그 10개 포함.\"",
                   "\"오늘 출근길 사진을 올려. 직장인 공감 캡션을 써줘. 짧고 위트있게.\"",
                   "\"제품 리뷰 포스트야. 솔직한 톤으로 장점 3가지를 자연스럽게 녹여줘.\""
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/sns-content-flow.svg",
+                "alt": "SNS 루틴"
               },
               {
                 "type": "bullets",
@@ -2465,7 +2487,9 @@
                   "캘린더를 보고 AI에게 한 번에 요청",
                   "\"이번 주 인스타 포스트 5개의 캡션을 한 번에 써줘\"",
                   "각 포스트의 주제와 톤을 미리 지정"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/sns-content-flow.svg",
+                "alt": "SNS 루틴"
               },
               {
                 "type": "bullets",
@@ -3228,7 +3252,9 @@
                   "사람이 텍스트로 질문하면 AI가 텍스트로 답하는 프로그램",
                   "대규모 언어 모델(LLM)이 문장을 생성하는 원리",
                   "검색 엔진과 다른 점: 정보를 '찾는' 것이 아니라 '만드는' 것"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level1-chatbot-compare.svg",
+                "alt": "Level 1 개념도"
               },
               {
                 "type": "bullets",
@@ -3477,7 +3503,9 @@
                   "긴 보고서·기사·논문을 빠르게 파악 가능",
                   "핵심 포인트를 놓치지 않도록 구조화",
                   "직접 읽는 시간 대비 5~10배 빠름"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level1-chatbot-compare.svg",
+                "alt": "Level 1 개념도"
               },
               {
                 "type": "bullets",
@@ -3725,7 +3753,9 @@
                   "챗봇에게 특정 전문가 역할을 맡기는 기법",
                   "'너는 10년차 마케터야'처럼 페르소나를 부여",
                   "역할에 따라 답변의 깊이·관점·어투가 달라짐"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level1-chatbot-compare.svg",
+                "alt": "Level 1 개념도"
               },
               {
                 "type": "bullets",
@@ -3994,7 +4024,9 @@
                   "같은 절차를 매번 동일하게 실행하는 것",
                   "사람의 판단이 필요 없는 단계를 기계에 위임",
                   "목표: 시간 절약 + 실수 감소"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level2-automation-flow.svg",
+                "alt": "Level 2 개념도"
               },
               {
                 "type": "bullets",
@@ -4234,7 +4266,9 @@
                   "오픈소스 워크플로우 자동화 도구",
                   "노드를 연결해서 자동화를 만든다",
                   "400개 이상의 서비스 연동 지원"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level2-automation-flow.svg",
+                "alt": "Level 2 개념도"
               },
               {
                 "type": "bullets",
@@ -4489,7 +4523,9 @@
                   "입력: Gmail 트리거 (새 이메일 수신)",
                   "처리: AI가 카테고리 분류 (문의/제안/스팸/기타)",
                   "출력: 구글 시트에 기록 + 긴급 건은 슬랙 알림"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level2-automation-flow.svg",
+                "alt": "Level 2 개념도"
               },
               {
                 "type": "bullets",
@@ -4765,7 +4801,9 @@
                   "외부 데이터에 접근 불가",
                   "자동화는 사람이 복사-붙여넣기로 연결",
                   "실시간 정보 반영이 어려움"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level3-mcp-arch.svg",
+                "alt": "Level 3 개념도"
               },
               {
                 "type": "bullets",
@@ -5014,7 +5052,9 @@
                   "MCP 공식 사이트 서버 목록",
                   "npm / PyPI에서 mcp-server 검색",
                   "커뮤니티 포럼과 블로그"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level3-mcp-arch.svg",
+                "alt": "Level 3 개념도"
               },
               {
                 "type": "bullets",
@@ -5279,7 +5319,9 @@
                   "여러 앱을 오가며 하는 작업",
                   "정해진 순서대로 처리하는 업무",
                   "데이터를 조회하고 정리하는 일"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level3-mcp-arch.svg",
+                "alt": "Level 3 개념도"
               },
               {
                 "type": "bullets",
@@ -5569,7 +5611,9 @@
                   "프롬프트로 AI를 부릴 수 있다",
                   "도구(검색, 코드 실행)를 연결했다",
                   "하나의 에이전트가 꽤 많은 일을 한다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level4-agent-team.svg",
+                "alt": "Level 4 개념도"
               },
               {
                 "type": "bullets",
@@ -5805,7 +5849,9 @@
                   "할 수 있는 일과 하면 안 되는 일이 구분된다",
                   "사용할 도구가 지정된다",
                   "성공 기준이 측정 가능하다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level4-agent-team.svg",
+                "alt": "Level 4 개념도"
               },
               {
                 "type": "bullets",
@@ -6063,7 +6109,9 @@
                   "3. 순차 파이프라인으로 연결",
                   "4. 테스트 질문으로 실행",
                   "5. 각 단계 출력 확인"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level4-agent-team.svg",
+                "alt": "Level 4 개념도"
               },
               {
                 "type": "bullets",
@@ -6323,7 +6371,9 @@
                   "애드혹: 사람이 매번 판단하고 조율한다",
                   "시스템: 입력이 들어오면 정해진 경로를 따라 결과가 나온다",
                   "핵심 차이는 '사람 없이도 같은 결과가 나오는가'이다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level5-harness.svg",
+                "alt": "Level 5 개념도"
               },
               {
                 "type": "bullets",
@@ -6572,7 +6622,9 @@
                   "워크플로 중간에 상태를 저장하는 지점",
                   "체크포인트가 있으면 실패 시 그 지점부터 재개 가능",
                   "전체를 다시 실행하지 않아도 되므로 비용과 시간을 절약"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level5-harness.svg",
+                "alt": "Level 5 개념도"
               },
               {
                 "type": "bullets",
@@ -6836,7 +6888,9 @@
                   "에이전트 출력 품질은 시간이 지나면 변할 수 있다 (모델 업데이트, 데이터 변화)",
                   "비용이 예상을 초과할 수 있다",
                   "사용자 불만이 쌓이기 전에 문제를 발견해야 한다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/level5-harness.svg",
+                "alt": "Level 5 개념도"
               },
               {
                 "type": "bullets",
@@ -7293,7 +7347,9 @@
                   "구조화된 초안이 있으면 수정만 하면 되니까 훨씬 빠름",
                   "매번 비슷한 형식의 보고서를 반복 작성하는 비효율 제거",
                   "AI는 초안 생성기, 최종 판단은 항상 내가 한다"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/report-flow.svg",
+                "alt": "보고서 작성 흐름"
               },
               {
                 "type": "bullets",
@@ -7497,7 +7553,9 @@
                   "이슈 사항: 지연/변경된 업무와 원인",
                   "차주 계획: 다음 주 핵심 업무 3~5개",
                   "건의 사항: 필요한 지원이나 의사결정 요청"
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/report-flow.svg",
+                "alt": "보고서 작성 흐름"
               },
               {
                 "type": "bullets",
@@ -7705,7 +7763,9 @@
                   "\"~되\" vs \"~돼\" (하 → 해 치환 테스트)",
                   "\"~에 대해\" 남발 → \"~을/를\"로 간결하게",
                   "\"~것으로 사료됩니다\" → \"~것으로 판단됩니다\""
-                ]
+                ],
+                "imageUrl": "https://www.vibecamp.us/course-images/report-flow.svg",
+                "alt": "보고서 작성 흐름"
               },
               {
                 "type": "bullets",

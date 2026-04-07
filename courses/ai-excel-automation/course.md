@@ -34,6 +34,8 @@ theme: koreatech-v3
 - 구글링해도 내 상황에 딱 맞는 답을 찾기 어려움
 - AI에게 한국어로 "이거 해줘"라고 하면 수식을 만들어줍니다
 
+![엑셀 자동화 흐름](https://www.vibecamp.us/course-images/excel-flow.svg)
+
 ---
 
 # 기본 수식 요청 프롬프트
@@ -214,6 +216,8 @@ theme: koreatech-v3
 - 형식 불일치: "2024-01-15", "2024/01/15", "1월 15일" 혼재
 - 빈 셀: 데이터가 누락된 행
 - AI에게 "이 데이터를 정리해줘"라고 하면 단계별로 안내
+
+![엑셀 자동화 흐름](https://www.vibecamp.us/course-images/excel-flow.svg)
 
 ---
 
@@ -403,6 +407,8 @@ theme: koreatech-v3
 - 반복 작업을 버튼 하나로 자동 실행
 - 예: 매월 같은 형식의 보고서 생성, 데이터 정리, 이메일 발송
 - 코딩을 몰라도 AI가 코드를 만들어주니 걱정 없음
+
+![엑셀 자동화 흐름](https://www.vibecamp.us/course-images/excel-flow.svg)
 
 ---
 
