@@ -27,6 +27,13 @@
                 "script": "영어 이메일 하나 쓰는 데 30분씩 걸리셨죠? 이제 AI에게 한국어로 말하면 30초면 됩니다."
               },
               {
+                "type": "image",
+                "title": "한국어 → 영어 톤 자동 변환",
+                "imageUrl": "https://www.vibecamp.us/course-images/email-tone.svg",
+                "alt": "이메일 톤 변환 예시",
+                "caption": "하나의 한국어 입력으로 Formal, Friendly, Casual, Follow-up 4가지 톤 생성"
+              },
+              {
                 "type": "bullets",
                 "title": "요청 이메일의 기본 구조",
                 "bullets": [
@@ -659,6 +666,13 @@
                 "type": "title",
                 "title": "자연어로 수식 요청하기",
                 "subtitle": "\"이 수식이 뭔지 모르겠어요\"의 시대는 끝났습니다"
+              },
+              {
+                "type": "image",
+                "title": "AI 엑셀 자동화 흐름",
+                "imageUrl": "https://www.vibecamp.us/course-images/excel-flow.svg",
+                "alt": "자연어에서 수식까지",
+                "caption": "한국어로 질문 → ChatGPT가 수식 생성 → 엑셀에 붙여넣기 → 완성"
               },
               {
                 "type": "bullets",
@@ -1395,6 +1409,13 @@
                 "script": "회의가 길어지는 이유는 준비 없이 시작하기 때문입니다. AI가 안건을 정리하면 핵심만 논의할 수 있습니다."
               },
               {
+                "type": "image",
+                "title": "회의 시간 Before vs After",
+                "imageUrl": "https://www.vibecamp.us/course-images/meeting-flow.svg",
+                "alt": "회의 생산성 비교",
+                "caption": "AI 없이 2시간 10분 → AI 활용 50분 (60% 절감)"
+              },
+              {
                 "type": "bullets",
                 "title": "안건 정리 프롬프트",
                 "bullets": [
@@ -2018,6 +2039,13 @@
                 "title": "오늘 뭘 올리지? AI가 해결합니다",
                 "subtitle": "매일 콘텐츠 주제를 고민하는 시간을 줄입니다.",
                 "script": "SNS를 운영하면서 가장 힘든 건 '오늘 뭘 올리지?'입니다. AI에게 주제를 무한히 뽑아달라고 하세요."
+              },
+              {
+                "type": "image",
+                "title": "주간 콘텐츠 루틴",
+                "imageUrl": "https://www.vibecamp.us/course-images/sns-content-flow.svg",
+                "alt": "SNS 콘텐츠 주간 루틴",
+                "caption": "월요일 기획 → 화~목 배치 생성 → 금요일 예약 발행 → 주 5개 콘텐츠 (2시간/주)"
               },
               {
                 "type": "bullets",
@@ -7144,6 +7172,13 @@
                 "type": "title",
                 "title": "프롬프트로 보고서 구조 잡기",
                 "subtitle": "AI에게 \"잘 시키는 법\"이 보고서 품질을 결정합니다"
+              },
+              {
+                "type": "image",
+                "title": "AI 보고서 작성 흐름",
+                "imageUrl": "https://www.vibecamp.us/course-images/report-flow.svg",
+                "alt": "보고서 작성 4단계 흐름",
+                "caption": "메모 입력 → AI 구조화 → 검토 수정 → 10분 완성"
               },
               {
                 "type": "bullets",

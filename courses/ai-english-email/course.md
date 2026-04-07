@@ -21,6 +21,14 @@ theme: koreatech-v3
 
 ---
 
+# 한국어 → 영어 톤 자동 변환
+
+![이메일 톤 변환 예시](https://www.vibecamp.us/course-images/email-tone.svg)
+
+*하나의 한국어 입력으로 Formal, Friendly, Casual, Follow-up 4가지 톤 생성*
+
+---
+
 # 요청 이메일의 기본 구조
 
 - Subject: 한눈에 요청 내용이 보이게

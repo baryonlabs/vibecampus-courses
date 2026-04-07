@@ -19,6 +19,14 @@ theme: koreatech-v3
 
 ---
 
+# AI 엑셀 자동화 흐름
+
+![자연어에서 수식까지](https://www.vibecamp.us/course-images/excel-flow.svg)
+
+*한국어로 질문 → ChatGPT가 수식 생성 → 엑셀에 붙여넣기 → 완성*
+
+---
+
 # 엑셀 수식, 왜 어려운가
 
 - VLOOKUP, INDEX/MATCH, SUMIFS... 함수 이름부터 외계어

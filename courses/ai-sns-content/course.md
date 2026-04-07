@@ -21,6 +21,14 @@ theme: koreatech-v3
 
 ---
 
+# 주간 콘텐츠 루틴
+
+![SNS 콘텐츠 주간 루틴](https://www.vibecamp.us/course-images/sns-content-flow.svg)
+
+*월요일 기획 → 화~목 배치 생성 → 금요일 예약 발행 → 주 5개 콘텐츠 (2시간/주)*
+
+---
+
 # AI에게 주제를 뽑는 법
 
 - "나는 [업종] 사장이야. 인스타그램에 올릴 콘텐츠 주제 30개를 뽑아줘"
