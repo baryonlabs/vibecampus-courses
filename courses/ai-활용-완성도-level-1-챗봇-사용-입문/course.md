@@ -13,6 +13,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | AI 챗봇이란 무엇인가 -->
 
+# AI 챗봇 3대장 비교
+
+![AI 챗봇 3대장 비교](https://www.vibecamp.us/course-images/level1-chatbot-compare.svg)
+
+*ChatGPT vs Claude vs Gemini 한눈에 비교*
+
+---
 # AI 챗봇이란?
 
 대화형 인공지능의 기본 개념을 알아봅니다.
@@ -200,6 +207,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 문서 요약하기 -->
 
+# AI 챗봇 3대장 비교
+
+![AI 챗봇 3대장 비교](https://www.vibecamp.us/course-images/level1-chatbot-compare.svg)
+
+*ChatGPT vs Claude vs Gemini 한눈에 비교*
+
+---
 # 긴 글을 짧게, 핵심만
 
 챗봇으로 문서를 요약하는 실전 기술을 배웁니다.
@@ -386,6 +400,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 역할 프롬프트(Role Prompting) -->
 
+# AI 챗봇 3대장 비교
+
+![AI 챗봇 3대장 비교](https://www.vibecamp.us/course-images/level1-chatbot-compare.svg)
+
+*ChatGPT vs Claude vs Gemini 한눈에 비교*
+
+---
 # 챗봇에게 역할을 부여하자
 
 역할 프롬프트로 답변의 전문성과 톤을 제어합니다.

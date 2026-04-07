@@ -12,6 +12,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 자동화란 무엇인가 -->
 
+# 자동화의 기본 구조
+
+![자동화의 기본 구조](https://www.vibecamp.us/course-images/level2-automation-flow.svg)
+
+*입력(Trigger) → 처리(AI+자동화) → 출력(Action)*
+
+---
 # 자동화란 무엇인가
 
 사람이 반복하는 일을 기계가 대신하는 원리를 이해합니다.
@@ -196,6 +203,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | n8n 환경 설정하기 -->
 
+# 자동화의 기본 구조
+
+![자동화의 기본 구조](https://www.vibecamp.us/course-images/level2-automation-flow.svg)
+
+*입력(Trigger) → 처리(AI+자동화) → 출력(Action)*
+
+---
 # n8n 환경 설정하기
 
 n8n을 설치하고 첫 화면을 둘러봅니다.
@@ -387,6 +401,13 @@ n8n을 설치하고 첫 화면을 둘러봅니다.
 
 <!-- +lesson: 1 | 프로젝트 1: 이메일 자동 분류 -->
 
+# 자동화의 기본 구조
+
+![자동화의 기본 구조](https://www.vibecamp.us/course-images/level2-automation-flow.svg)
+
+*입력(Trigger) → 처리(AI+자동화) → 출력(Action)*
+
+---
 # 프로젝트 1: 이메일 자동 분류
 
 수신 이메일을 AI로 분류하고 라벨을 붙입니다.

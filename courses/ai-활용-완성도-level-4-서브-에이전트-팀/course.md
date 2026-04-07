@@ -12,6 +12,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 단일 에이전트의 한계 -->
 
+# 에이전트 팀 구조
+
+![에이전트 팀 구조](https://www.vibecamp.us/course-images/level4-agent-team.svg)
+
+*조사자 + 작성자 + 검토자 → 고품질 결과물*
+
+---
 # Level 4 · 서브 에이전트 팀
 
 한 명짜리 비서에서 팀으로 넘어가야 하는 이유를 알아봅니다.
@@ -191,6 +198,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 역할 정의하기 — 조사자·작성자·검토자 -->
 
+# 에이전트 팀 구조
+
+![에이전트 팀 구조](https://www.vibecamp.us/course-images/level4-agent-team.svg)
+
+*조사자 + 작성자 + 검토자 → 고품질 결과물*
+
+---
 # 역할 정의 실습
 
 각 에이전트의 시스템 프롬프트와 책임 범위를 정합니다.
@@ -390,6 +404,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 조사-작성-검토 파이프라인 구축 -->
 
+# 에이전트 팀 구조
+
+![에이전트 팀 구조](https://www.vibecamp.us/course-images/level4-agent-team.svg)
+
+*조사자 + 작성자 + 검토자 → 고품질 결과물*
+
+---
 # 파이프라인 구축 실습
 
 Stage 2에서 설계한 것을 실제로 만들어 봅니다.

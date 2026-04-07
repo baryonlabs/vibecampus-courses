@@ -3210,6 +3210,13 @@
             "title": "AI 챗봇이란 무엇인가",
             "slides": [
               {
+                "type": "image",
+                "title": "AI 챗봇 3대장 비교",
+                "imageUrl": "https://www.vibecamp.us/course-images/level1-chatbot-compare.svg",
+                "alt": "AI 챗봇 3대장 비교",
+                "caption": "ChatGPT vs Claude vs Gemini 한눈에 비교"
+              },
+              {
                 "type": "title",
                 "title": "AI 챗봇이란?",
                 "subtitle": "대화형 인공지능의 기본 개념을 알아봅니다."
@@ -3452,6 +3459,13 @@
             "title": "문서 요약하기",
             "slides": [
               {
+                "type": "image",
+                "title": "AI 챗봇 3대장 비교",
+                "imageUrl": "https://www.vibecamp.us/course-images/level1-chatbot-compare.svg",
+                "alt": "AI 챗봇 3대장 비교",
+                "caption": "ChatGPT vs Claude vs Gemini 한눈에 비교"
+              },
+              {
                 "type": "title",
                 "title": "긴 글을 짧게, 핵심만",
                 "subtitle": "챗봇으로 문서를 요약하는 실전 기술을 배웁니다."
@@ -3692,6 +3706,13 @@
             "order": 1,
             "title": "역할 프롬프트(Role Prompting)",
             "slides": [
+              {
+                "type": "image",
+                "title": "AI 챗봇 3대장 비교",
+                "imageUrl": "https://www.vibecamp.us/course-images/level1-chatbot-compare.svg",
+                "alt": "AI 챗봇 3대장 비교",
+                "caption": "ChatGPT vs Claude vs Gemini 한눈에 비교"
+              },
               {
                 "type": "title",
                 "title": "챗봇에게 역할을 부여하자",
@@ -3955,6 +3976,13 @@
             "title": "자동화란 무엇인가",
             "slides": [
               {
+                "type": "image",
+                "title": "자동화의 기본 구조",
+                "imageUrl": "https://www.vibecamp.us/course-images/level2-automation-flow.svg",
+                "alt": "자동화의 기본 구조",
+                "caption": "입력(Trigger) → 처리(AI+자동화) → 출력(Action)"
+              },
+              {
                 "type": "title",
                 "title": "자동화란 무엇인가",
                 "subtitle": "사람이 반복하는 일을 기계가 대신하는 원리를 이해합니다."
@@ -4187,6 +4215,13 @@
             "order": 1,
             "title": "n8n 환경 설정하기",
             "slides": [
+              {
+                "type": "image",
+                "title": "자동화의 기본 구조",
+                "imageUrl": "https://www.vibecamp.us/course-images/level2-automation-flow.svg",
+                "alt": "자동화의 기본 구조",
+                "caption": "입력(Trigger) → 처리(AI+자동화) → 출력(Action)"
+              },
               {
                 "type": "title",
                 "title": "n8n 환경 설정하기",
@@ -4435,6 +4470,13 @@
             "order": 1,
             "title": "프로젝트 1: 이메일 자동 분류",
             "slides": [
+              {
+                "type": "image",
+                "title": "자동화의 기본 구조",
+                "imageUrl": "https://www.vibecamp.us/course-images/level2-automation-flow.svg",
+                "alt": "자동화의 기본 구조",
+                "caption": "입력(Trigger) → 처리(AI+자동화) → 출력(Action)"
+              },
               {
                 "type": "title",
                 "title": "프로젝트 1: 이메일 자동 분류",
@@ -4704,6 +4746,13 @@
             "title": "챗봇에서 도구 사용자로",
             "slides": [
               {
+                "type": "image",
+                "title": "MCP 아키텍처",
+                "imageUrl": "https://www.vibecamp.us/course-images/level3-mcp-arch.svg",
+                "alt": "MCP 아키텍처",
+                "caption": "사용자 → AI → 도구(파일/검색/API) → 결과 반환"
+              },
+              {
                 "type": "title",
                 "title": "Level 3 · 툴 사용형 AI",
                 "subtitle": "AI가 이제 행동하기 시작합니다."
@@ -4945,6 +4994,13 @@
             "order": 1,
             "title": "MCP 서버 찾기와 평가하기",
             "slides": [
+              {
+                "type": "image",
+                "title": "MCP 아키텍처",
+                "imageUrl": "https://www.vibecamp.us/course-images/level3-mcp-arch.svg",
+                "alt": "MCP 아키텍처",
+                "caption": "사용자 → AI → 도구(파일/검색/API) → 결과 반환"
+              },
               {
                 "type": "title",
                 "title": "MCP 서버 생태계 탐색",
@@ -5203,6 +5259,13 @@
             "order": 1,
             "title": "커스텀 도구 설계 사고법",
             "slides": [
+              {
+                "type": "image",
+                "title": "MCP 아키텍처",
+                "imageUrl": "https://www.vibecamp.us/course-images/level3-mcp-arch.svg",
+                "alt": "MCP 아키텍처",
+                "caption": "사용자 → AI → 도구(파일/검색/API) → 결과 반환"
+              },
               {
                 "type": "title",
                 "title": "나만의 MCP 도구 설계",
@@ -5488,6 +5551,13 @@
             "title": "단일 에이전트의 한계",
             "slides": [
               {
+                "type": "image",
+                "title": "에이전트 팀 구조",
+                "imageUrl": "https://www.vibecamp.us/course-images/level4-agent-team.svg",
+                "alt": "에이전트 팀 구조",
+                "caption": "조사자 + 작성자 + 검토자 → 고품질 결과물"
+              },
+              {
                 "type": "title",
                 "title": "Level 4 · 서브 에이전트 팀",
                 "subtitle": "한 명짜리 비서에서 팀으로 넘어가야 하는 이유를 알아봅니다."
@@ -5715,6 +5785,13 @@
             "order": 1,
             "title": "역할 정의하기 — 조사자·작성자·검토자",
             "slides": [
+              {
+                "type": "image",
+                "title": "에이전트 팀 구조",
+                "imageUrl": "https://www.vibecamp.us/course-images/level4-agent-team.svg",
+                "alt": "에이전트 팀 구조",
+                "caption": "조사자 + 작성자 + 검토자 → 고품질 결과물"
+              },
               {
                 "type": "title",
                 "title": "역할 정의 실습",
@@ -5965,6 +6042,13 @@
             "order": 1,
             "title": "조사-작성-검토 파이프라인 구축",
             "slides": [
+              {
+                "type": "image",
+                "title": "에이전트 팀 구조",
+                "imageUrl": "https://www.vibecamp.us/course-images/level4-agent-team.svg",
+                "alt": "에이전트 팀 구조",
+                "caption": "조사자 + 작성자 + 검토자 → 고품질 결과물"
+              },
               {
                 "type": "title",
                 "title": "파이프라인 구축 실습",
@@ -6221,6 +6305,13 @@
             "title": "시스템이란 무엇이 다른가",
             "slides": [
               {
+                "type": "image",
+                "title": "하네스 시스템",
+                "imageUrl": "https://www.vibecamp.us/course-images/level5-harness.svg",
+                "alt": "하네스 시스템",
+                "caption": "Ad-hoc 팀 vs 운영 가능한 시스템 비교"
+              },
+              {
                 "type": "title",
                 "title": "Stage 1 · 팀에서 시스템으로",
                 "subtitle": "잘 돌아가는 것과 반복 가능한 것은 완전히 다릅니다."
@@ -6462,6 +6553,13 @@
             "order": 1,
             "title": "체크포인트와 승인 게이트",
             "slides": [
+              {
+                "type": "image",
+                "title": "하네스 시스템",
+                "imageUrl": "https://www.vibecamp.us/course-images/level5-harness.svg",
+                "alt": "하네스 시스템",
+                "caption": "Ad-hoc 팀 vs 운영 가능한 시스템 비교"
+              },
               {
                 "type": "title",
                 "title": "체크포인트와 승인 게이트",
@@ -6719,6 +6817,13 @@
             "order": 1,
             "title": "출력 모니터링과 품질 관리",
             "slides": [
+              {
+                "type": "image",
+                "title": "하네스 시스템",
+                "imageUrl": "https://www.vibecamp.us/course-images/level5-harness.svg",
+                "alt": "하네스 시스템",
+                "caption": "Ad-hoc 팀 vs 운영 가능한 시스템 비교"
+              },
               {
                 "type": "title",
                 "title": "출력 모니터링",

@@ -12,6 +12,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 시스템이란 무엇이 다른가 -->
 
+# 하네스 시스템
+
+![하네스 시스템](https://www.vibecamp.us/course-images/level5-harness.svg)
+
+*Ad-hoc 팀 vs 운영 가능한 시스템 비교*
+
+---
 # Stage 1 · 팀에서 시스템으로
 
 잘 돌아가는 것과 반복 가능한 것은 완전히 다릅니다.
@@ -204,6 +211,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 체크포인트와 승인 게이트 -->
 
+# 하네스 시스템
+
+![하네스 시스템](https://www.vibecamp.us/course-images/level5-harness.svg)
+
+*Ad-hoc 팀 vs 운영 가능한 시스템 비교*
+
+---
 # 체크포인트와 승인 게이트
 
 멈출 수 있어야 제어할 수 있습니다.
@@ -410,6 +424,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 출력 모니터링과 품질 관리 -->
 
+# 하네스 시스템
+
+![하네스 시스템](https://www.vibecamp.us/course-images/level5-harness.svg)
+
+*Ad-hoc 팀 vs 운영 가능한 시스템 비교*
+
+---
 # 출력 모니터링
 
 돌아가는 것과 잘 돌아가는 것은 다릅니다.

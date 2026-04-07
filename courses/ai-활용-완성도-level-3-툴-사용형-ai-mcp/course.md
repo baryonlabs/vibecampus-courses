@@ -12,6 +12,13 @@ theme: koreatech-v3
 
 <!-- +lesson: 1 | 챗봇에서 도구 사용자로 -->
 
+# MCP 아키텍처
+
+![MCP 아키텍처](https://www.vibecamp.us/course-images/level3-mcp-arch.svg)
+
+*사용자 → AI → 도구(파일/검색/API) → 결과 반환*
+
+---
 # Level 3 · 툴 사용형 AI
 
 AI가 이제 행동하기 시작합니다.
@@ -205,6 +212,13 @@ AI가 도구를 '선택'하고 '호출'하는 과정
 
 <!-- +lesson: 1 | MCP 서버 찾기와 평가하기 -->
 
+# MCP 아키텍처
+
+![MCP 아키텍처](https://www.vibecamp.us/course-images/level3-mcp-arch.svg)
+
+*사용자 → AI → 도구(파일/검색/API) → 결과 반환*
+
+---
 # MCP 서버 생태계 탐색
 
 어떤 도구들이 이미 만들어져 있는가
@@ -418,6 +432,13 @@ Claude Desktop에 도구를 붙여봅시다
 
 <!-- +lesson: 1 | 커스텀 도구 설계 사고법 -->
 
+# MCP 아키텍처
+
+![MCP 아키텍처](https://www.vibecamp.us/course-images/level3-mcp-arch.svg)
+
+*사용자 → AI → 도구(파일/검색/API) → 결과 반환*
+
+---
 # 나만의 MCP 도구 설계
 
 어떤 도구를 만들어야 할까?
